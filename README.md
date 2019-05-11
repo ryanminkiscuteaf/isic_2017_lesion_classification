@@ -19,6 +19,7 @@ Get the training, validation, and test data from [Udacity's repo](https://github
 
 ## Data Preparation
 Run `create_normalized_dataset.ipynb` to normalize the dataset using a color constancy algorithm called Shades of Gray.
+
 It assumes that your original dataset is organized as follows:
 ```bash
 data/
