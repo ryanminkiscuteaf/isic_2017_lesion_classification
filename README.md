@@ -23,7 +23,6 @@ Run `create_normalized_dataset.ipynb` to normalize the dataset using a color con
 It assumes that your original dataset is organized as follows:
 ```bash
 data/
-├── models
 ├── test
 │   ├── melanoma
 │   ├── nevus
